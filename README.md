@@ -10,20 +10,16 @@ installation and removal.
 Format
 ---
 
-The feature metadata is written similarly to that of APT repository metadata:
-
-- `Feature`: Name of the feature marker
-- `Functionality`: A short description for the feature; this item may be
-  localised with `-$LANG` suffixes.
+The feature metadata is written in TOML, with support for localisation:
 
 ### Example
 
 ```
-Feature: kde-graphical-environment
-Functionality: KDE graphical environment
-Functionality-zh_CN: KDE 图形界面
+[kde-graphical-environment]
+zh_CN = "KDE 图形界面"
+en_US = "KDE graphical environment"
 
-Feature: multimedia-playback
-Functionality: Multimedia playback support
-Functionality-zh_CN: 多媒体播放
+[multimedia-playback]
+zh_CN = "多媒体播放"
+en_US = "Multimedia playback"
 ```
