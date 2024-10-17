@@ -1,7 +1,7 @@
 [kde-graphical-environment]
 zh_CN = "KDE 图形界面"
-en = "KDE graphical environment"
+en_US = "KDE graphical environment"
 
 [multimedia-playback]
 zh_CN = "多媒体播放"
-en = "Multimedia playback"
+en_US = "Multimedia playback"
