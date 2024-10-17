@@ -1,7 +1,27 @@
-[kde-graphical-environment]
-zh_CN = "KDE 图形界面"
+[graphical-environment-kde]
 en_US = "KDE graphical environment"
+zh_CN = "KDE 图形界面"
+
+[input-ime]
+en_US = "Inpout method engine"
+zh_CN = "输入法引擎"
+
+[input-graphics-tablet]
+en_US = "Graphics tablet input support"
+zh_CN = "数位板输入支持"
+
+[input-keyboard]
+en_US = "Keyboard input support"
+zh_CN = "键盘输入支持"
+
+[input-mouse]
+en_US = "Mouse input support"
+zh_CN = "鼠标输入支持"
+
+[input-touchscreen]
+en_US = "Touchscreen support"
+zh_CN = "触摸支持"
 
 [multimedia-playback]
-zh_CN = "多媒体播放"
 en_US = "Multimedia playback"
+zh_CN = "多媒体播放"
