@@ -1,7 +1,0 @@
-Feature: kde-graphical-environment
-Functionality: KDE graphical environment
-Functionality-zh_CN: KDE 图形界面
-
-Feature: multimedia-playback
-Functionality: Multimedia playback
-Functionality-zh_CN: 多媒体播放
